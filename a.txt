@@ -4,3 +4,5 @@
 4. third line
 5. fourth line
 6. Fifth line
+7th Line added
+git ignore
